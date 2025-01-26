@@ -42,7 +42,7 @@ distributed_db_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kuldeepkushwah06/distributed_system.git
 cd distributed_db_project
 ```
 
@@ -168,10 +168,3 @@ Invalid entries are reported via console output:
 - Check Python and Django versions compatibility
 - Verify virtualenv activation
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
